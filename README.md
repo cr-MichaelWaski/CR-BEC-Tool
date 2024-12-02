@@ -42,6 +42,8 @@
 - Connectivity to Microsoft 365 services
 - Appropriate permissions to access the required logs and data
 - An endpoint and token for data upload (configured in `config.psd1`)
+- https://microsoft-365-extractor-suite.readthedocs.io/en/latest/installation/Prerequisites.html
+- https://microsoft-365-extractor-suite.readthedocs.io/en/latest/installation/Installation.html
 
 ### Setting up Observe Integration
 
