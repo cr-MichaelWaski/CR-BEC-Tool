@@ -114,7 +114,7 @@ For investigations requiring audit log access, follow these steps to set up a se
    - Click "+" to create a new role group
    - Name the role group (e.g., "Audit Log Viewers")
    - Add the following roles:
-     - "Unified Audit"
+     - "Audit"
      - "View-Only Audit Logs"
    - Add the service account as a member
    - Save the role group
